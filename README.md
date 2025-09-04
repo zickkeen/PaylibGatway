@@ -274,12 +274,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Support
 
-- 📧 Email: team@zickkeen.com
-- 🐛 Issues: [GitHub Issues](https://github.com/zickkeen/paylib-gateway/issues)
+- 📧 Email: zickkeen@aka.my.id
+- 🐛 Issues: [GitHub Issues](https://github.com/zickkeen/PaylibGatway/issues)
 - 📖 Docs: [Documentation](https://github.com/zickkeen/paylib-gateway/wiki)
 
 ## 🙏 Acknowledgments
 
-- Terima kasih kepada tim zickkeen
+- Terima kasih kepada all kilo Team
 - Inspired by various payment gateway libraries
 - Built with ❤️ for Indonesian developers

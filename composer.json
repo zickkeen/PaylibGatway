@@ -1,5 +1,6 @@
 {
     "name": "zickkeen/paylib-gateway",
+    "version": "1.0.0",
     "description": "PHP library for integrating with GoPay and OVO payment APIs",
     "type": "library",
     "license": "MIT",
