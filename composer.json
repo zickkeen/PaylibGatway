@@ -1,0 +1,35 @@
+{
+    "name": "zickkeen/paylib-gateway",
+    "description": "PHP library for integrating with GoPay and OVO payment APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zickkeen Team",
+            "email": "zickkeen@aka.my.id"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "psr/log": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "zickkeen\\PaylibGateway\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "zickkeen\\PaylibGateway\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
